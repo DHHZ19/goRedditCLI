@@ -3,7 +3,7 @@
 
 ### Commands
 
-backend server command is run from the `backend/` directory of the project, from a terminal:
+All commands are run at the root directory of the project
 
 | Command                   | Action                                                                |
 | :------------------------ | :-------------------------------------------------------------------- |
