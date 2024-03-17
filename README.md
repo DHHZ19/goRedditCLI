@@ -1,10 +1,11 @@
 # Reddit CLI opens a random post from Reddit and opens it in your default browser
 
 
-### Pass "-print" flag to print the Title and Permalink for the post.
+### Commands
 
-to run the application you must have go installed. 
+backend server command is run from the `backend/` directory of the project, from a terminal:
 
-to open random reddit post in browser exectute `go run main.go`
-
-to view the post title and permalink exectute `go run main.go -print`
+| Command                   | Action                                                                |
+| :------------------------ | :-------------------------------------------------------------------- |
+| `go run main.go`          | opens random reddit post in browser exectute `go run main.go`.         |
+| `go run main.go -print`   | "-print" flag to print the Title and Permalink for the Reddit post.   |
