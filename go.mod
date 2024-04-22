@@ -1,4 +1,4 @@
-module example.com/m
+module github.com/dhhz19/goReddit
 
 go 1.22.1
 
